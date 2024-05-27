@@ -1,3 +1,9 @@
+# Demo lab3 Đặng Phương Nam
+
+https://github.com/phuongnam789inludd/Lab3Phuongnammm/assets/93646983/25d2d806-7655-457f-912f-0223850b89de
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
